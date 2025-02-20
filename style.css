@@ -1,8 +1,8 @@
-.container img{
-    width: auto;
+.c img.sigma{
+    display: block;
+    width: 500px;
     height: auto;
-    max-width: 500px;
-    max-height: 500px;
     margin-right: auto;
     margin-left: auto;
+    margin-top: 50px;
 }
